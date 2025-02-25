@@ -1,0 +1,2 @@
+pywinauto==0.6.9
+speedtest_cli==2.1.3
